@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PocketPopular</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="app_title">Pocket Popular</string>
+    <string name="app_title_2">The Psychology of Being Popular</string>
+    <string name="_4th_fact">Smile \n Strength</string>
+    <string name="fifthfact">Improve \n Gait</string>
+    <string name="firstfact">Power \n Poses</string>
+    <string name="secfact">Five \n Traits</string>
+    <string name="thirdfact">Project \n Voice</string>
+    <string name="firstfact_title">Power Poses</string>
+    <string name="firstfactbody">firstfactbody</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_button">Home</string>
+    <string name="second_title">Five Traits</string>
+    <string name="popularity_calculator">Popularity Calculator</string>
+    <string name="pocket_pop_calculator">Pocket Pop Calculator</string>
+    <string name="first_q">1) When you see a homeless person suffering, what do you do?</string>
+    <string name="_1_2_hours">Ignore</string>
+    <string name="twoa1">Acknowledge</string>
+    <string name="threea1">Help</string>
+    <string name="q2">2) When you are speaking to someone do you maintain eye contact?</string>
+    <string name="q3">3) How often do you start conversations and hang out with new people?</string>
+    <string name="convo1">Never</string>
+    <string name="convo2">Sometimes</string>
+    <string name="convo3">Always</string>
+    <string name="q4">4) When you are not required to complete an assignment, what do you do?</string>
+    <string name="name1">Forget</string>
+    <string name="name2">Postpone</string>
+    <string name="name3">Work</string>
+    <string name="q5">5) Do you like starting or testing new hobbies or activities?</string>
+    <string name="submit">Submit</string>
+    <string name="power_pose_fact1"> A simple pose can greatly influence the way that people view you: \n  \n  \u2022 Anyone can do power poses! They key to understanding their importance lies in the psychological benefit! Power poses can greatly boost your self-esteem and perceived popularity (there are studies that prove it)! \n \n  \u2022 So what is a power pose? A power pose is simply an open and wide gesture you can make while communicating or standing alone (click the example below for more details).  \n \n \u2022 Doing power poses can boost testosterone levels (hormone that influences social dominance) by 16% and lower cortisol levels (hormone that produces stress and anxiety) by 11%! \n \n \u2022 We all know that attractiveness also plays a major role in popularity. The good news is that power poses boost attractiveness by making you seem more reliable, powerful, and confident! Why? Slumped postures make you seem burdened and less approachable!
+    \n \n  \u2022 Did you know that the military prioritizes posture training because it boosts the morale and confidence of soldiers? \n \n \u2022 Fun Fact, animals use wide gestures and open poses to portray dominance!
+    \n \n \u2022  Research from Amy Cuddy's 2012 study on power poses</string>
+    <string name="powerposeex">Example</string>
+    <string name="project_voice">Project Voice</string>
+    <string name="project_voice_body">There\'s not much that we can do about the voice that we were given, but there is a lot that we can do to improve it! \n \n \u2022 Your voice is an important factor in whether someone will find you appealing and approachable because communication skills are essential to social interactions. \n \n \u2022 First steps first, accept your voice! We  were given unique voices and uniqueness contributes to popularity (no one likes an average joe)! \n \n \u2022 	A slow and clear voice with intonation (accuracy of pitch) will make an individual appear more confident, dominant, and favorable. \n \n \u2022 Intentional yawning will relax your pharynx and boost your pitch control! \n \n \u2022 Breathing is a major proponent
+    of good speaking. Try diaphragmatic breathing (breathing with your stomach, not chest) to improve the pitch of your voice! \n \n \u2022 Straight postures, keeping your back straight, will also greatly improve your control over your voice because it will maximize your breathing capability (more air better voice)! \n \n \u2022 Evidence from Voice Matters in Dublin, a voice-coaching agency. </string>
+    <string name="smile_more">Smile Strength</string>
+    <string name="smile_facts">You don\'t need makeup or surgery to boost attractiveness! Just smile! \n \n \u2022 We all love people that can make us smile and be happy! Research shows that all of us have the potential to do that!  \n \n  \u2022 Sincere smiles boost attractiveness and reliability. \n \n  \u2022 Why? Don\'t doubt the research! Smiling activates the orbitofrontal cortex, the reward center of the brain. So, when you smile you are rewarding someone else, creating a positive environment around you! \n \n \u2022 In the study, Jones and Debruine 2011, research showed that smiling was deemed as more attractive than any other emotion, making the individual seem more friendly and better-looking. \n \n \u2022 Smiling also activates the cingulate cortex in other people, making them smile too! Nothing is better than spreading happiness!</string>
+    <string name="improve_gait_title">Improve Gait</string>
+    <string name="gaitfacts">Before we begin the discussion, let\'s define what gait is so that you have a  clear understanding. Gait is a person\'s manner of walking. Now, you may be asking why we are talking about walking. Let\'s find out! \n \n \u2022 Psychologists believe that an individual\'s gait greatly impacts the way that people perceive that individual. \n \n \u2022 People with "perfect" gaits will be perceived as being more confident, open, reverent, and approachable (click the arrow below for an example). \n \n \u2022 What\'s the evidence you may ask. In a 1935 study by German-born psychologist Werner Wolff, participants were filmed wearing the same clothes and interacting. The video was played back and the participant\'s head and voice were censored. Participants were then asked to identify an each other\'s personality and status based on his/her walk. Results showed a high consistency among their judgements. This shows that a person\'s gait can offer insight into their personality and status! \n \n \u2022 Evidence from: - Thoresen JC, Vuong QC, and Atkinson AP (2012) </string>
+    <string name="fivetraits_facts">This section is different from the others because we will discuss standards for determining personality. Let\'s dive in and examine the \"Big Five \" personality traits! \n \n   Neuroticism  \n \n  \u2022 Measure of one\'s self confidence, emotional stability, and behaviour. \n \n  \u2022 Low scores indicate confidence, while high scores indicate low self-esteem and depression. \n \n  \u2022 Those high in neuroticism are generally more favored among their peers. \n \n \n Opennes to Experience \n \n \u2022 Willingness to take on challenges \n \n \u2022 Likelihood of becoming a leader \n \n \u2022 Desire to see peace and justice \n \n \u2022 Tendency to explore one self and his or her passions \n \n \n Conscientiousness \n \n \u2022 Tendency to control impulses and follow social norms. \n \n \u2022 People that are conscientious are able to delay gratification (resist temptation) and follow rules. \n \n \u2022 Highly conscientious people are able to succeed in life and attain leadership positions! \n \n \n  Extroversion \n \n \u2022 Where people draw their energy from. \n \n \u2022 Introverts draw their energy from the inner world, gaining satisfaction from solitude. while extroverts gain energy from the outter world, gaining satisfaction from social interactions. \n \n \u2022 People with high extroversion are able to communicate effectively and lead, but people high in introversion are able to reflect and grow as well!  \n \n Agreeableness \n \n \u2022 How people get along with each other! \n \n \u2022 How you interact with people. Examples are kindness, loyalty, patience etc. \n \n \u2022 People high in agreeableness are generally well-liked, respected, and sensitive to other\'s needs!   </string>
+    <string name="final_response1">No</string>
+    <string name="final2">Maybe</string>
+    <string name="final3">Yes</string>
+</resources>

@@ -1,0 +1,44 @@
+<animated-vector
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/icon">
+
+    <target
+        android:animation="@animator/headpath"
+        android:name="headpath">
+
+    </target>
+
+    <target
+
+        android:animation="@animator/brainpath"
+        android:name="brainpath">
+
+    </target>
+
+    <target
+
+        android:animation="@animator/animate"
+        android:name="animate">
+
+    </target>
+
+    <target
+        android:animation="@animator/noheadpath"
+        android:name="noheadpath">
+
+    </target>
+    <target
+        android:animation="@animator/nobrainpath"
+        android:name="nobrainpath">
+
+    </target>
+    <target
+        android:animation="@animator/noanimate"
+        android:name="noanimate">
+
+    </target>
+
+
+
+
+</animated-vector>

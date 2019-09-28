@@ -1,0 +1,10 @@
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="nobrainpath"
+    android:propertyName="fillColor"
+    android:duration="300"
+    android:valueFrom="#000000"
+    android:valueTo="#ffffff"
+    android:repeatCount="0"
+    android:valueType="colorType"
+    android:interpolator="@android:anim/linear_interpolator"/>
